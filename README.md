@@ -1,0 +1,1 @@
+# nuxt_bunkasai_sample
