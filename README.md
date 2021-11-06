@@ -1,1 +1,1 @@
-# nuxt_bunkasai_sample
+# flask_bunkasai_sample
