@@ -1,0 +1,14 @@
+header{
+    height: 50px;
+    width: 100%;
+    border-bottom: solid 2px #3eb370;
+}
+header_icon{
+    height: 40px;
+    margin: 10px;
+}
+header_title{
+    font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+}
